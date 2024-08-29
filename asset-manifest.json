@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/asignacion-examenes/static/css/main.74d1ecbf.css",
+    "main.js": "/asignacion-examenes/static/js/main.dcc2232e.js",
+    "static/js/213.f62a6e19.chunk.js": "/asignacion-examenes/static/js/213.f62a6e19.chunk.js",
+    "static/js/732.0e8cd452.chunk.js": "/asignacion-examenes/static/js/732.0e8cd452.chunk.js",
+    "static/js/453.c70550b1.chunk.js": "/asignacion-examenes/static/js/453.c70550b1.chunk.js",
+    "index.html": "/asignacion-examenes/index.html",
+    "main.74d1ecbf.css.map": "/asignacion-examenes/static/css/main.74d1ecbf.css.map",
+    "main.dcc2232e.js.map": "/asignacion-examenes/static/js/main.dcc2232e.js.map",
+    "213.f62a6e19.chunk.js.map": "/asignacion-examenes/static/js/213.f62a6e19.chunk.js.map",
+    "732.0e8cd452.chunk.js.map": "/asignacion-examenes/static/js/732.0e8cd452.chunk.js.map",
+    "453.c70550b1.chunk.js.map": "/asignacion-examenes/static/js/453.c70550b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74d1ecbf.css",
+    "static/js/main.dcc2232e.js"
+  ]
+}
